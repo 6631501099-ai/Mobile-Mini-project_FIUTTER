@@ -1,10 +1,10 @@
 import 'package:http/http.dart' as http;
 import 'dart:io';
 import 'dart:convert';
-
+// ตัวแปรเก็บข้อมูลผู้ใช้ที่ล็อกอิน
 String? username;
 String? userId;
-
+// auto
 // ฟังก์ชันช่วย parse จำนวนเงิน
 num parsePaid(dynamic value) {
   if (value == null) return 0;
