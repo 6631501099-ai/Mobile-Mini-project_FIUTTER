@@ -4,6 +4,7 @@ import 'dart:convert';
 // ตัวแปรเก็บข้อมูลผู้ใช้ที่ล็อกอิน
 String? username;
 String? userId;
+//yaya
 // auto
 // ฟังก์ชันช่วย parse จำนวนเงิน
 num parsePaid(dynamic value) {
